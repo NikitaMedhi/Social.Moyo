@@ -1,0 +1,13 @@
+.LogoSearch{
+    display: flex;
+    width: 150%;
+    height: 5%;
+}
+
+.Search{
+    display: flex;
+    background-color: var(--inputColor);
+    border-radius: 8px;
+    padding: 1px;
+}
+
