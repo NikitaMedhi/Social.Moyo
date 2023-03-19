@@ -27,6 +27,7 @@ This project is a social networking platform, where you can:
 
 #### The backend for follow
 
+![follow](https://user-images.githubusercontent.com/99015731/226156496-1725a793-56ce-40bd-8851-4ef3930ffb14.jpeg)
 
 #### The backend for create post
 
