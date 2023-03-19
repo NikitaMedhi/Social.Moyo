@@ -13,12 +13,9 @@ This project is a social networking platform, where you can:
 - delete posts
 - Logout any time you want
 
-## How to run?
-You have to run "SocialSim.py". No additional packages are required, this project only uses features that are present standard python distribution.
+## The backend for registration?
 
-![usage](https://user-images.githubusercontent.com/49767636/83347690-18f27a00-a340-11ea-9cde-17562ccc4129.jpg)
-
-As you can see there are two modesin which you can use this program, details are as follow:
+![registration](https://user-images.githubusercontent.com/99015731/226156256-7cdc74ef-9f00-47d3-b568-6a49234bc505.jpeg)
 
 ### Interactive mode
 In this mode, user can interact with the program and will have to provide input at each step as he/she wants, this is how a interactive mode looks like:
