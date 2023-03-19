@@ -17,6 +17,10 @@ This project is a social networking platform, where you can:
 - delete posts
 - Logout any time you want
 
+## A snippet of the application
+
+
+
 ## The backend for registration
 
 ![registration](https://user-images.githubusercontent.com/99015731/226156256-7cdc74ef-9f00-47d3-b568-6a49234bc505.jpeg)
