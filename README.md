@@ -31,6 +31,7 @@ This project is a social networking platform, where you can:
 
 #### The backend for create post
 
+![create post](https://user-images.githubusercontent.com/99015731/226156517-87a890f1-938f-4d59-8ed8-4dbb7313ecba.jpeg)
 
 #### The backend for unlike
 
