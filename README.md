@@ -6,7 +6,7 @@ Keeping this mind, we took the time to explore the nitty gritty of a typical soc
 
 ## Our logo
 
-
+![socialmoyo logo](https://user-images.githubusercontent.com/99015731/226156690-6367e5e5-d738-4ee3-8f13-46f5d2febcfb.jpeg)
 
 This project is a social networking platform, where you can:
 
