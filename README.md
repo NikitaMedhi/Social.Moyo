@@ -23,6 +23,7 @@ This project is a social networking platform, where you can:
 
 #### The backend for logout
 
+![logout](https://user-images.githubusercontent.com/99015731/226156465-ecbcadf9-ce76-44f3-96cf-91dadd691f82.jpeg)
 
 #### The backend for follow
 
