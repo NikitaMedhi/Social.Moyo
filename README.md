@@ -19,7 +19,7 @@ This project is a social networking platform, where you can:
 
 ## A snippet of the application
 
-
+https://github.com/sharma-m-supriya/Social.Moyo/issues/9#issue-1630798730
 
 ## The backend for registration
 
