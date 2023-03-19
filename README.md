@@ -8,10 +8,10 @@ Keeping this mind, we took the time to explore the nitty gritty of a typical soc
 ## Our logo
 
 ![socialmoyo logo](https://user-images.githubusercontent.com/99015731/226156690-6367e5e5-d738-4ee3-8f13-46f5d2febcfb.jpeg)
-
-
-
-
+#
+#
+#
+#
 This project is a social networking platform, where you can:
 
 - Register yourself as an user
@@ -20,59 +20,61 @@ This project is a social networking platform, where you can:
 - like posts
 - delete posts
 - Logout any time you want
-
-
-
-
+#
+#
+#
+#
 ## A snippet of the application
 
 ![socialmoyo cover](https://user-images.githubusercontent.com/99015731/226156776-f0b14952-28a3-41d2-9330-a334cbc95d88.png)
-
-
-
-
+#
+#
+#
+#
 ## The backend for registering yourself as a user
 
 ![registration](https://user-images.githubusercontent.com/99015731/226156256-7cdc74ef-9f00-47d3-b568-6a49234bc505.jpeg)
-
-
-
-
+#
+#
+#
+#
 ### The backend for logging in
 
 ![login](https://user-images.githubusercontent.com/99015731/226156354-aa10242f-eb57-4cbe-a46b-bd5ecadfb7aa.jpeg)
-
-
-
-
+#
+#
+#
+#
 #### The backend for logging out
 
 ![logout](https://user-images.githubusercontent.com/99015731/226156465-ecbcadf9-ce76-44f3-96cf-91dadd691f82.jpeg)
-
-
-
-
+#
+#
+#
+#
 #### The backend for following a user
 
 ![follow](https://user-images.githubusercontent.com/99015731/226156496-1725a793-56ce-40bd-8851-4ef3930ffb14.jpeg)
-
-
-
-
+#
+#
+#
+#
 #### The backend for creating a post
 
 ![create post](https://user-images.githubusercontent.com/99015731/226156517-87a890f1-938f-4d59-8ed8-4dbb7313ecba.jpeg)
-
-
-
-
+#
+#
+#
+#
 #### The backend for unliking a post
 
 ![unlike](https://user-images.githubusercontent.com/99015731/226156541-20b92121-6fda-436c-9b04-1780c527e1d8.jpeg)
-
-
-
-
+#
+#
+#
+#
 #### The backend for getting comment
 
 ![get comment](https://user-images.githubusercontent.com/99015731/226156566-5448b0bb-285b-4785-bf1e-37b911bb2c5c.jpeg)
+#
+#
