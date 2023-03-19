@@ -4,6 +4,10 @@ One of the defining characteristics of Gen Z is their ability to navigate and us
 
 Keeping this mind, we took the time to explore the nitty gritty of a typical social networking platform and dive deep into the possibility of incorporating effective data structures into this project.
 
+## Our logo
+
+
+
 This project is a social networking platform, where you can:
 
 - Register yourself as an user
