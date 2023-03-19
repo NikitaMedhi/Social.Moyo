@@ -13,40 +13,32 @@ This project is a social networking platform, where you can:
 - delete posts
 - Logout any time you want
 
-## The backend for registration?
+## The backend for registration
 
 ![registration](https://user-images.githubusercontent.com/99015731/226156256-7cdc74ef-9f00-47d3-b568-6a49234bc505.jpeg)
 
-### Interactive mode
-In this mode, user can interact with the program and will have to provide input at each step as he/she wants, this is how a interactive mode looks like:
+### The backend for login
 
-![intr](https://user-images.githubusercontent.com/49767636/83347742-89010000-a340-11ea-8fb8-d8914e087ee3.jpg)
+![login](https://user-images.githubusercontent.com/99015731/226156354-aa10242f-eb57-4cbe-a46b-bd5ecadfb7aa.jpeg)
 
-#### Load Network
-Using this function you can create a network, there are further two more options:
-
-![load](https://user-images.githubusercontent.com/49767636/83347764-bcdc2580-a340-11ea-87f9-183e6325994f.jpg)
-
-#### Load new network
-If you want to load a new network from a network file you should use this option. Sample run of loading from text file:
-
-![load new network](https://user-images.githubusercontent.com/49767636/83347859-54da0f00-a341-11ea-9d69-3d369d50ea95.jpg)
+#### The backend for logout
 
 
-As you can see the network is loaded when we print the network it prints as expected. Remember **Format of the network input should be exactly same as the network.txt file that is provided**.
+#### The backend for follow
 
-#### Load saved network
-If you have created a network and made some changes, saved the network using **Save network**. You can load the graph from the saved pickle file.
 
-![saved](https://user-images.githubusercontent.com/49767636/83347962-36284800-a342-11ea-9536-22d9101e53b0.jpg)
+#### The backend for create post
 
-#### Set Probabilities
-It is probability in percentage(%), that how much likely a person will follow another person, or much likely a person will like the post. If you think this application as a "Disease spread simulation", this parameter will mean that how much is likely for a healthy person get affected by the disease. 
 
-![pro](https://user-images.githubusercontent.com/49767636/83348049-c1094280-a342-11ea-8aae-32c5f222d335.jpg)
+#### The backend for unlike
 
-#### Node Operations
-As the graph is a linked-list of a linked-lists, so, A node is representing a person in the network. If you want to:
+
+#### The backend for get comment
+
+
+
+
+
 
 **Sign-up in the network**
 
